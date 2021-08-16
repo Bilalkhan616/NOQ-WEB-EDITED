@@ -765,13 +765,7 @@ const PrivacyPolicy = () => {
           unlawfully processing your personal information, you also have the
           right to complain to your local data protection supervisory authority.
           You can find their contact details here:
-          http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm
-          <br />
-          If you are a resident in the EEA or UK and you believe we are
-          unlawfully processing your personal information, you also have the
-          right to complain to your local data protection supervisory authority.
-          You can find their contact details here:
-          http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm
+          <a href="http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.html">Data Protection</a>
           <br />
           If you are a resident in Switzerland, the contact details for the data
           protection authorities are available here:
