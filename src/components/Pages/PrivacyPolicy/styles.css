@@ -1,0 +1,14 @@
+.contentLinks {
+    color: #e75788
+}
+
+.contentItalic {
+    font-style: italic;
+}
+
+.contentBold {
+    font-weight: bold;
+}
+.mainContainer {
+    margin: 0 10px;
+}
